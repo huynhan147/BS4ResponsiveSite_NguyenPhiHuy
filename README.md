@@ -12,7 +12,7 @@ Thực hiện bởi [Nguyễn Phi Huy](https://github.com/huynhan147)
 - Liên kết học liệu : [Link !] (https://app.convertkit.com/landing_pages/14235)
 - Liên kết bài làm online: [Link !](https://huynhan147.github.io/BS4ResponsiveSite_NguyenPhiHuy/)
 
-## Hướng dẫn cài đặt test/sử dụng nếu có
+## Hướng dẫn cài đặt test/sử dụng:
 
 - Sử dụng boostrap 4 stable :[Link !](https://getbootstrap.com/docs/4.0/getting-started/download/)
 
